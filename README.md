@@ -1,5 +1,5 @@
 - Hi, I’m @rodolfocalado
-- Building an Humann Experience Design Lab (HxD LAB).
+- Human Experience Designer (HxD)
 - How to reach me: https://linktr.ee/rodolfocalado
 
 <!---
